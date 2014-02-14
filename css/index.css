@@ -1,6 +1,6 @@
 body {
   background-color: rgb(255, 255, 255);
-  font: normal 1.375em Muna;
+  font: normal 1.375em MuseoSans-500;
   color: rgb(135, 133, 130);
 }
 
@@ -25,7 +25,6 @@ button {
   border: 3px solid rgb(113, 189, 214);
   background-color: rgb(119, 199, 226);
   font-size: 1em;
-  font-weight: Regular;
   line-height: 0.4;
   text-align: center;
   color: rgb(248, 248, 248);
@@ -42,7 +41,7 @@ form {
 h2 {
   width: 27.25%;
   min-height: 80px;
-  margin: 462px auto 0;
+  margin: 429px auto 0;
   font-size: 1.455em;
   line-height: 1.38;
   text-align: center;
@@ -68,7 +67,6 @@ input {
   border: 3px solid rgb(236, 236, 236);
   background-color: rgb(249, 249, 249);
   font-size: 1em;
-  font-weight: Regular;
   color: rgb(174, 174, 174);
 }
 
@@ -122,9 +120,7 @@ input {
 
 .assembly-2 {
   min-height: 41px;
-  margin: 126px auto 0;
-  font-family: Muli;
-  font-weight: 400;
+  margin: 124px auto 0;
 }
 
 .text-1 {
@@ -141,7 +137,6 @@ input {
   min-height: 72px;
   margin: 136px auto 0;
   font-size: 0.818em;
-  font-weight: Regular;
   line-height: 1.7;
 }
 
