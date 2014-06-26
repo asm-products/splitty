@@ -10,7 +10,7 @@
  
  /***** STRUCTURE *****/
  
- body { 
+body { 
 	/* background: url('../img/bg.png') repeat-x; */
 	background-color: #fff;
 	}
@@ -25,6 +25,27 @@ h2 {
   font-size: 1.455em;
   line-height: 1.38;
   color: rgb(230, 82, 81);
+}
+
+button {
+  width: 28.548895899%;
+  height: 77px;
+  border: 3px solid rgb(113, 189, 214);
+  background-color: rgb(119, 199, 226);
+  font-size: 1em;
+  line-height: 0.4;
+  text-align: center;
+  color: rgb(248, 248, 248);
+  resize: none;
+}
+
+input {
+  width: 50%;
+  height: 65px;
+  border: 3px solid rgb(236, 236, 236);
+  background-color: rgb(249, 249, 249);
+  font-size: 1em;
+  color: rgb(174, 174, 174);
 }
  
 .content {
